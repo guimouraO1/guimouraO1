@@ -23,10 +23,9 @@ Hello! I am a full-stack developer passionate about creating efficient and scala
 - **[Divulga-Pet](https://github.com/guimouraO1/divulga-pet):** An angular website for animal rescue, contains interactive maps, real-time chat between parties and publications with pagination.
 
 - **[https://mangas-nest.vercel.app/](https://mangas-nest.vercel.app/):** Full-stack project. **[Front-end](https://github.com/guimouraO1/mangas-nest)**, **[Back-end](https://github.com/guimouraO1/mangas-nest-api)**.
-- If you want to test -> user: public.test@email.com password: publicTest123
-
-- **[https://wallet-wise-psi.vercel.app/](https://wallet-wise-psi.vercel.app/):** Full-stack project. **[Front-end](https://github.com/guimouraO1/wallet-wise)**, **[Back-end](https://github.com/guimouraO1/wallet-wise-api-serverless)**. 
-- If you want to test -> user: public.test@email.com password: publicTest123
+- **[https://wallet-wise-psi.vercel.app/](https://wallet-wise-psi.vercel.app/):** Full-stack project. **[Front-end](https://github.com/guimouraO1/wallet-wise)**, **[Back-end](https://github.com/guimouraO1/wallet-wise-api-serverless)**.
+  
+- If you want to test mangas nest or wallet wise -> user: public.test@email.com password: publicTest123
 
 ### Contact
 
