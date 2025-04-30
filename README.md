@@ -21,9 +21,12 @@ Hello! I am a full-stack developer passionate about creating efficient and scala
 - **[Interative-Map-LABSAT](https://github.com/guimouraO1/leaflet-map):** An interactive web page HTML/CSS/JS with leaflet lib based on DSAT INPE.
 - **[Processing-Goes16](https://github.com/guimouraO1/Goes16-Processamento-cpa):** Python script for manipulating and processing images from the GOES-16 NOAA.
 - **[Divulga-Pet](https://github.com/guimouraO1/divulga-pet):** An angular website for animal rescue, contains interactive maps, real-time chat between parties and publications with pagination.
-- **[mangasnest.com](https://mangasnest.com/):** Big Full-stack project. **[Front-end](https://github.com/guimouraO1/mangas-nest)**, **[Back-end](https://github.com/guimouraO1/mangas-nest-api-v2)**.
+
+- **[https://mangas-nest.vercel.app/](https://mangas-nest.vercel.app/):** Full-stack project. **[Front-end](https://github.com/guimouraO1/mangas-nest)**, **[Back-end](https://github.com/guimouraO1/mangas-nest-api)**.
+- If you want to test -> user: public.test@email.com password: publicTest123
+
 - **[https://wallet-wise-psi.vercel.app/](https://wallet-wise-psi.vercel.app/):** Full-stack project. **[Front-end](https://github.com/guimouraO1/wallet-wise)**, **[Back-end](https://github.com/guimouraO1/wallet-wise-api-serverless)**. 
-If you want to test -> user: public.test@email.com password: publicTest123
+- If you want to test -> user: public.test@email.com password: publicTest123
 
 ### Contact
 
