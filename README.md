@@ -10,9 +10,9 @@ Hello! I am a full-stack developer passionate about creating efficient and scala
 ### Technologies and Tools
 
 - **Frontend:** Angular, React
-- **Backend:** Node.js, TypeScript, JavaScript
-- **DevOps:** Docker
-- **Databases:** MySQL and ORMs
+- **Backend:** Node.js, TypeScript, JavaScript, c# (.net)
+- **DevOps:** Docker, aws, vercel
+- **Databases:** MySQL, Postgres and Prisma (ORM)
 - **Versioning:** Git
 - **Others:**  Python, Debian, UX, nginx and others.
 
