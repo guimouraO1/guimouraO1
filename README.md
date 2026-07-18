@@ -1,7 +1,4 @@
 # Guilherme de Moura Oliveira
-<br>
-<br>
-<h2 align="center">Full-stack Developer</h2>
 
 ### About Me
 
