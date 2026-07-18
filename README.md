@@ -9,12 +9,11 @@ Hello! I am a full-stack developer passionate about creating efficient and scala
 
 ### Technologies and Tools
 
-- **Frontend:** Angular, React
-- **Backend:** Node.js, TypeScript, JavaScript, c# (.net)
-- **DevOps:** Docker, aws, vercel
-- **Databases:** MySQL, Postgres and Prisma (ORM)
-- **Versioning:** Git
-- **Others:**  Python, Debian, UX, nginx and others.
+- **Frontend:** Angular, React, JSF
+- **Backend:** Node.js - JavaScript/TypeScript, Java - Spring
+- **Cloud:** Amazon Web Services (AWS) - S3, EC2, CLOUD FRONT.
+- **Databases:** Relational Postgres.
+- **Versioning:** Git - Github, Bitbuket.
 
 ### Featured Projects
 
