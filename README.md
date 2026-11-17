@@ -1,26 +1,28 @@
 # Guilherme de Moura Oliveira
 
-**Full-Stack Developer** · Java · Spring Boot · Angular · Kafka · AWS
+**Full-Stack Developer** · Java · Spring Boot · Angular · AWS
 Campinas, SP, Brazil
 
 ## About me
 
-Developer with a postgraduate degree in full-stack development and a lifelong passion for games and programming.
+Full-stack developer since 2022, focused on Java and Spring Boot on the back end. I believe our field goes far beyond writing code: it is about solving clients' real problems while ensuring efficiency, scalability and performance.
 
-I believe building software goes far beyond writing code. It is about solving real problems with systems that are efficient, scalable and fast, and that truly deliver what clients need.
+On the back end, I work with microservices and event-driven architecture with Apache Kafka, caching with Redis, relational and non-relational databases, and deployments on AWS. On the front end, Angular and React. I am currently going deeper into software architecture.
 
-That takes growing every day: studying in depth, getting hands-on and thinking each problem through. I bring my best to every delivery, with good humor and close attention to detail. I am a careful listener and a patient teammate, and I ask the questions that move a project forward.
+A good listener, patient and inquisitive, I bring my best to every delivery with good humor and attention to detail.
 
 ## Skills
 
-- **Languages:** Java, TypeScript, JavaScript, Python, SQL
-- **Back-end:** Spring Boot, JSF, Node.js, REST APIs, microservices, event-driven architecture
-- **Messaging:** Apache Kafka, AWS SQS, retry, dead-letter queues
+- **Languages:** Java (17 to 25), JavaScript, TypeScript, C, C#, Python
+- **Back-end:** Spring Boot, Node.js
+- **Architecture:** REST APIs, microservices, event-driven architecture, design patterns
+- **Messaging:** Apache Kafka, retries, dead-letter queues, asynchronous integrations
 - **Front-end:** Angular (13 to 22), React, Next.js
-- **Data and cache:** PostgreSQL, Redis, data modeling, migrations
-- **Cloud and DevOps:** AWS (ECS, EC2, S3, SQS, CloudFront), Docker, Nginx
-- **Testing:** JUnit, integration tests, Cypress, Mocha
-- **Practices:** OOP, Clean Code, DDD, code review, Scrum, Swagger / OpenAPI
+- **Databases:** PostgreSQL, Redis, data modeling, migrations, ORMs
+- **Cloud and DevOps:** AWS (ECS, EC2, S3, CloudFront), Docker, Nginx, GitHub Actions (CI/CD), Grafana
+- **Testing:** unit, integration and E2E with JUnit, Cypress and Mocha
+- **Practices:** OOP, Clean Code, DDD, Scrum, Swagger / OpenAPI
+- **Spoken languages:** Portuguese (native), English (technical reading and writing)
 
 ## Projects
 
