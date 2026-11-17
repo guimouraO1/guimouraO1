@@ -1,37 +1,15 @@
 # Guilherme de Moura Oliveira
 
-**Mid-level Full-Stack Developer** · Java · Spring Boot · Angular · Kafka · AWS
+**Full-Stack Developer** · Java · Spring Boot · Angular · Kafka · AWS
 Campinas, SP, Brazil
 
-About 4 years building web systems, multi-tenant SaaS platforms and microservices. Today I work on Java and Spring Boot services in an event-driven architecture with Apache Kafka and AWS SQS, Angular front-ends, PostgreSQL and Redis, running in Docker on AWS ECS.
+## About me
 
-I came from Node.js and TypeScript SaaS products, so I move between stacks and take a feature end to end: data model, API, interface, tests and deploy. I care about testable code, performance, resilience and paying down technical debt.
+Developer with a postgraduate degree in full-stack development and a lifelong passion for games and programming.
 
-## Experience
+I believe building software goes far beyond writing code. It is about solving real problems with systems that are efficient, scalable and fast, and that truly deliver what clients need.
 
-### Galleria Bank · Mid-level Developer (Java · Angular)
-*Jun 2026 – present · Campinas, SP*
-
-- Java and Spring Boot microservices for the financial domain: authentication, permissions and business rules
-- Asynchronous communication with Apache Kafka, with retry and dead-letter queues so failed messages are reprocessed without data loss
-- Integrations with partners through events and queues (Kafka and AWS SQS)
-- Redis for query cache, sessions and tokens, rate limiting and distributed locks
-- Services in Docker on AWS ECS; PostgreSQL with versioned migrations; integration tests against a real database
-
-### Microbit Informática · Junior Developer
-*Jul 2024 – May 2026 · Hybrid*
-
-- Full-stack work on SPAs and multi-tenant SaaS platforms
-- REST APIs in Node.js and TypeScript with PostgreSQL and Sequelize, documented in Swagger; Angular interfaces (13 to 18)
-- Automated tests with Cypress (E2E) and Mocha
-- Deploys and maintenance on AWS (EC2, S3 and CloudFront); code review on Bitbucket
-
-### UNICAMP (CEPAGRI) · Software Development Intern
-*Dec 2022 – Jun 2024*
-
-- Rebuilt the GOES-16 satellite image processing pipeline with Python and Shell Script
-- Designed and built a high-resolution interactive map portal (Leaflet), served by Nginx, live at [labsat.cpa.unicamp.br](https://labsat.cpa.unicamp.br)
-- Tile generation engine in Python and a dedicated Nginx container to serve the tiles
+That takes growing every day: studying in depth, getting hands-on and thinking each problem through. I bring my best to every delivery, with good humor and close attention to detail. I am a careful listener and a patient teammate, and I ask the questions that move a project forward.
 
 ## Skills
 
