@@ -1,52 +1,64 @@
 # Guilherme de Moura Oliveira
 
-### About Me
+Full-stack developer. I build products end to end: API, web, mobile and the cloud they run on, keeping them small, fast and cheap to operate.
 
-Hello! I am a full-stack developer passionate about creating efficient and scalable solutions. I have experience with various technologies, including Angular, Python, Docker, TypeScript, and Node.js.
+## Now building
 
-### Technologies and Tools
+### [Mesfecho](https://mesfecho.com) · personal and group finance
 
-- **Frontend:** Angular, React, JSF
-- **Backend:** Node.js - JavaScript/TypeScript, Java - Spring
-- **Cloud:** Amazon Web Services (AWS) - S3, EC2, CLOUD FRONT.
-- **Databases:** Relational Postgres.
-- **Versioning:** Git - Github, Bitbuket.
+> **Feche o mês sabendo para onde foi cada real.**
 
-### Featured Projects
+Bills, cards and shared expenses in one place, made for the phone.
 
-- **[Interative-Map-LABSAT](https://github.com/guimouraO1/leaflet-map):** An interactive web page HTML/CSS/JS with leaflet lib based on DSAT INPE.
-- **[Processing-Goes16](https://github.com/guimouraO1/Goes16-Processamento-cpa):** Python script for manipulating and processing images from the GOES-16 NOAA.
-- **[Divulga-Pet](https://github.com/guimouraO1/divulga-pet):** An angular website for animal rescue, contains interactive maps, real-time chat between parties and publications with pagination.
+- Monthly close: what was spent, what is paid and what is still due
+- Expenses by category and a day-by-day agenda of the month
+- Groups of up to 20 people (home, trips, friends), with email invites
+- Private receipts: only you and your group can open them
 
-- **[https://mangas-nest.vercel.app/](https://mangas-nest.vercel.app/):** Full-stack project. **[Front-end](https://github.com/guimouraO1/mangas-nest)**, **[Back-end](https://github.com/guimouraO1/mangas-nest-api)**.
-- **[https://wallet-wise-psi.vercel.app/](https://wallet-wise-psi.vercel.app/):** Full-stack project. **[Front-end](https://github.com/guimouraO1/wallet-wise)**, **[Back-end](https://github.com/guimouraO1/wallet-wise-api-serverless)**.
-  
-- If you want to test mangas nest or wallet wise -> user: public.test@email.com password: publicTest123
+**Stack:** Java 25 + Spring Boot on AWS Lambda (SnapStart) · Next.js + shadcn/ui · Capacitor for Android · PostgreSQL (Neon) · Cloudflare Pages, R2 and Turnstile · Amazon SES · infrastructure as code with Pulumi
 
-### Contact
+[**Open the app**](https://mesfecho.com) · [Create an account](https://mesfecho.com/sign-up/) · [Download for Android](https://mesfecho.com/mesfecho.apk)
 
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/guilherme-moura-oliveira/)
+## Technologies
+
+- **Backend:** Java (Spring Boot), Go, Node.js and TypeScript
+- **Frontend:** React, Next.js, Angular, Tailwind CSS, shadcn/ui
+- **Mobile:** Capacitor
+- **Cloud:** AWS (Lambda, S3, CloudFront, SES), Cloudflare, Pulumi
+- **Data:** PostgreSQL
+- **Tooling:** Docker, Git, GitHub Actions
+
+## Earlier projects
+
+- **[GOES-16 processing](https://github.com/guimouraO1/old-cpa-processing):** Python scripts to process GOES-16 (NOAA) satellite images.
+- **[Divulga Pet](https://github.com/guimouraO1/tcc-divulga-pet):** Angular site for animal rescue, with interactive maps, real-time chat and paginated posts.
+
+## Contact
+
+- **LinkedIn:** [guilherme-moura-oliveira](https://www.linkedin.com/in/guilherme-moura-oliveira/)
 - **Email:** guimoura.oliveira@gmail.com
 
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
 </div>
 
 ---
-
 
 ### GitHub Stats
 
